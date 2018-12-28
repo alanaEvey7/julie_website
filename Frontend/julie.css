@@ -1,0 +1,41 @@
+body{
+    background-color: #5D595D
+}
+
+.container{
+    background-color: #7B0D7C;
+    
+    border-color: #B6A106;
+    border-width: 20px;
+    
+        
+}
+
+.form-group{
+    margin: 10px;
+    align-content: center;
+    
+    text-decoration-color: azure;
+    
+    
+}
+.form-inline{
+    align-content: center;
+    
+}
+
+form{
+    align-content: center;
+   
+}
+
+button{
+    margin: 10px;
+    background-color: dimgrey;
+    border-color: #B6A106;
+    
+}
+
+input{
+    background-color:#5D595D;
+}
