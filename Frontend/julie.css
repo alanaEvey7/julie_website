@@ -1,14 +1,20 @@
 body{
     background-color: #5D595D
+        
 }
 
-.container{
+
+.container {
     background-color: #7B0D7C;
+	margin: auto;
+	padding: 12px 0 12px 0;
+	margin-top: 5%;
+    text-align: center;
+    width: 75%;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 25px;
     
-    border-color: #B6A106;
-    border-width: 20px;
-    
-        
 }
 
 .form-group{
