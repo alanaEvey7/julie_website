@@ -1,2 +1,2 @@
 # julie_website
-Website for aunt personal buissness to be deployed on heroku
+Website for spokane buissness owner. Will be used to manage inventory and flow of orders.
