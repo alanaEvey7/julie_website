@@ -2,4 +2,4 @@
 Website for spokane buissness owner. Will be used to manage inventory and flow of orders.
 
 
-Currently Exploring Frameworks, and Deployment tools to maximise security while minimizing cost
+An Angular frontend with a Django Backend will be used for this project
