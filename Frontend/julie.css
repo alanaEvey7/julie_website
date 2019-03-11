@@ -1,0 +1,47 @@
+body{
+    background-color: #5D595D
+        
+}
+
+
+.container {
+    background-color: #7B0D7C;
+	margin: auto;
+	padding: 12px 0 12px 0;
+	margin-top: 5%;
+    text-align: center;
+    width: 75%;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 25px;
+    
+}
+
+.form-group{
+    margin: 10px;
+    align-content: center;
+    
+    text-decoration-color: azure;
+    
+    
+}
+.form-inline{
+    align-content: center;
+    
+}
+
+form{
+    align-content: center;
+   
+}
+
+button{
+    margin: 10px;
+    background-color: dimgrey;
+    border-color: #B6A106;
+    
+}
+
+input{
+    background-color:#5D595D;
+}
