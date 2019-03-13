@@ -71,3 +71,7 @@ input{
 save-btn{
     padding: 10%;
 }
+
+.inventory{
+    border-color: mediumpurple;
+}
